@@ -16,7 +16,7 @@ layout: single
 ---
 
 #### 2. 신호등
-![traffic_light][signal]
+![traffic_light][signal]  
 [signal]:
 https://cdn.snunews.com/news/photo/201711/17554_10490_1848.jpg  
 
